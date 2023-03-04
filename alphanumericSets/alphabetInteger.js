@@ -126,7 +126,7 @@ function verifyExampleImg() {
         case 23:
             return "Xicara.png";
         case 24:
-            return "YouTube.png";
+            return "Youtube.png";
         case 25:
             return "Zebra.png";
     }
